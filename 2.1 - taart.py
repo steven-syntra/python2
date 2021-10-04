@@ -1,3 +1,5 @@
+#steven de ryck - september 2021
+
 #dit programma berekent in hoeveel stukken een aantal taarten gesneden moeten worden
 #om alle deelnemers een stuk te geven
 bericht = "Je moet de taarten in %s stukken snijden."
