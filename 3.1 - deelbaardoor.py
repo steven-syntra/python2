@@ -10,8 +10,8 @@ def DeelbaarDoor(getal, deler):
 
 
 for i in range(20):
-    x = random.randint(100, 999)
-    if DeelbaarDoor(x, 7):
-        print("%s is deelbaar door 7" % x)
+    hetrandomgetal = random.randint(100, 999)
+    if DeelbaarDoor(hetrandomgetal, 7):
+        print("%s is deelbaar door 7" % hetrandomgetal)
     else:
-        print(x)
+        print(hetrandomgetal)

@@ -5,7 +5,7 @@ def printWith2Decimals( getal ):
     print("x is in de functie", x)
 
 
-x = 44/7
+x = 43/7
 # print(format( x, ".2f" ) )
 printWith2Decimals( x )
 print("x is buiten de functie", x)
